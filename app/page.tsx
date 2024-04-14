@@ -13,11 +13,11 @@ export default function Page() {
         <span>,</span>
         <span></span>
         <span>B</span>
-        <span>O</span>
-        <span>N</span>
-        <span>I</span>
-        <span>T</span>
-        <span>A</span>
+        <span>o</span>
+        <span>n</span>
+        <span>i</span>
+        <span>t</span>
+        <span>a</span>
         
     </div>
     <div className="description">
